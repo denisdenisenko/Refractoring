@@ -21,5 +21,6 @@ public class Class1 {
                 priceAfterDiscount = (amount - (0.5f * amount)) - disc * (amount - (0.5f * amount));
             }
             return priceAfterDiscount;
+
         }
 }
